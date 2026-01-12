@@ -1,4 +1,4 @@
-🔐 Python-Based Network Port Scanner
+<h2>🔐 Python-Based Network Port Scanner</h2>
 📌 Project Overview
 The Python-Based Network Port Scanner is a simple cybersecurity tool developed for educational purposes. It scans a local system (localhost) to identify open TCP ports and the services running on them, helping understand basic concepts of networking, port scanning, and vulnerability assessment.
 This project simulates the core functionality of professional tools like Nmap, while strictly following ethical scanning practices.
